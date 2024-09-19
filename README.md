@@ -9,12 +9,19 @@ Model Architecture: LSTM-based model for sequence classification.
 Preprocessing: Text tokenization, padding, and one-hot encoding for input sequences.
 Training: Model trained on language-labeled text data.
 Evaluation: Performance evaluated using accuracy and other relevant metrics.
-Requirements
+#Requirements
+
+
 Python 3.10+
+
 Keras 2.x
+
 TensorFlow 2.x
+
 Numpy 1.26.4
+
 Pandas 2.2.2
+
 Scikit-learn
 
 
