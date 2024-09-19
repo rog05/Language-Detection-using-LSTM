@@ -17,12 +17,12 @@ Numpy 1.26.4
 Pandas 2.2.2
 Scikit-learn
 
-Model Details
+
+#Model Details
 Embedding Layer: Converts the tokenized words into dense vectors.
 LSTM Layer: Captures sequential patterns in the text data.
 Dense Output Layer: Provides the predicted language category using softmax activation.
-Dataset
-Ensure your dataset consists of:
+
 
 x_train: Tokenized text data.
 y_train: Language labels encoded using one-hot encoding.
